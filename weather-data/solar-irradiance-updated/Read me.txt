@@ -1,0 +1,18 @@
+The folder contains .csv files with data columns. These are values re-run with corrected lat and long values according to MODTRAN runs for different locations.
+
+Each column information: Year 2022, Day 15, Month: March, June, September, December
+
+Total radiance of 737 nm wavelength in the atmospheric channel,
+4 times of a day : 0:00,6:00,12:00,18:00 hour of a day
+
+Calculation : 
+
+*MODTRAN Total radiance : Solar and thermal mode
+
+Units: micro W cm-2 sr-1 nm-1
+
+*This is the value listed in .csv files of this zip folder.
+
+Note: In very few MODTRAN runs, multiple scattering option is off.
+This is done as there is a sudden termination in MODTRAN due to repeated warning : the single scatter solar radiance was found to exceed the DISORT segment single plus multiple scatter solar radiance.
+DISORT- Discrete Ordinate Method : Refer MODTRAN manual

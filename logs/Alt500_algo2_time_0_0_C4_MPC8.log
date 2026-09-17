@@ -1,0 +1,11 @@
+3.9.18 (main, Oct  4 2024, 00:00:00) 
+[GCC 11.4.1 20231218 (Red Hat 11.4.1-3)]
+[('09/15/2022', 500000, 'primary-maxmin', 0, 0, 10, 10, 10), ('09/15/2022', 500000, 'primary-ratesum', 0, 0, 10, 10, 10)]
+slurm cores:  4
+num_workers:  2
+Process ForkPoolWorker-1 started at 14:43:20 with params: ('09/15/2022', 500000, 'primary-maxmin', 0, 0, 10, 10, 10)
+t:  0
+Process ForkPoolWorker-2 started at 14:43:20 with params: ('09/15/2022', 500000, 'primary-ratesum', 0, 0, 10, 10, 10)
+t:  0
+Process ForkPoolWorker-2 ended at 14:43:22. Duration: 1.78 seconds
+All processes completed in 8.73 seconds

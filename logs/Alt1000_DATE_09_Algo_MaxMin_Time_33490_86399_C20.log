@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/data/home/adikshit1/quantum/QSAT-Journal/write_rate_fid_date.py", line 9, in <module>
+    from utils import *
+  File "/data/home/adikshit1/quantum/QSAT-Journal/utils.py", line 8, in <module>
+    from docplex.mp.model import Model
+ModuleNotFoundError: No module named 'docplex'

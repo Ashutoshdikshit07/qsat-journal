@@ -1,0 +1,8 @@
+3.9.21 (main, Dec  5 2024, 00:00:00) 
+[GCC 11.5.0 20240719 (Red Hat 11.5.0-2)]
+[('09/15/2022', 500000, 'primary-maxmin', 0, 0, 10, 10, 10), ('09/15/2022', 500000, 'primary-ratesum', 0, 0, 10, 10, 10)]
+slurm cores:  1
+num_workers:  1
+Process ForkPoolWorker-1 started at 18:01:11 with params: ('09/15/2022', 500000, 'primary-maxmin', 0, 0, 10, 10, 10)
+t:  0
+slurmstepd-chpc063: error: *** JOB 4497775 ON chpc063 CANCELLED AT 2025-02-28T18:01:28 ***

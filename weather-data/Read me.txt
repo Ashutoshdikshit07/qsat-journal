@@ -1,0 +1,15 @@
+The folder contains .csv files with data columns.
+
+Each column information: Year 2022, Day 15, Month: March, June, September, December
+
+Hourly Data: Transmittance of 737 nm wavelength in the atmospheric channel,
+
+Calculation : 
+
+T = Transmittance assuming zero cloud cover and maximum visibility; irrespective of specific year
+CC = Hourly cloud cover percentage of the year 2022
+
+*Final transmittance  = T * (1- (CC/100))
+
+*This is the value listed in .csv files of this zip folder.
+
